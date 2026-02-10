@@ -10,7 +10,7 @@ int b = Integer.parseInt(br.readLine());
 
 
 
-        int result = Integer.parseInt(a) / Integer.parseInt(b);
+        int result = a / b;
         System.out.println("Result = " + result);
     }
 }
