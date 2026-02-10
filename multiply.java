@@ -1,4 +1,4 @@
-public class Multiply {
+public class multiply {
     public static void main(String[] args) {
         String a = System.getenv("NUM1");
         String b = System.getenv("NUM2");
